@@ -1,12 +1,26 @@
-body{
-
+#acontainer{
+    visibility: hidden;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .7);
+    border-radius: 10px;
+    color: white;
+    width: auto;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 20%;
+    max-width: 200pt;
 }
-a-container{
-
+#atitle{
 }
-a-title{
-    
+#atitle h1{
+    padding: 0px;
+    margin: 10px 0px 0px 0px;
+    font-size: 22pt;
 }
-a-content{
-
+#acontent{
+    padding: 10px 0px;
+}
+#acontent p{
+    padding: 0px 15px;
 }

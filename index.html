@@ -1,15 +1,18 @@
 <html>
     <head>
+        <title>Modal Alert</title>
         <script src="script.js"></script>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
-    <body onload="loadAlert()">
-        <div id="a-container">
-            <div id="a-title">
-                
+    <body>
+        <button onclick="showAlert()">Show Alert!</button>
+        <div id="acontainer">
+            <div id="atitle">
+                <h1 id="alerttitle"></h1>
             </div>
-            <div id="a-content">
-                
+            <div id="acontent">
+                <p id="alertbody"></p>
+                <button onclick="hideAlert()">Close</button>
             </div>
         </div>
     </body>

@@ -24,3 +24,6 @@
 #acontent p{
     padding: 0px 15px;
 }
+#acontent button{
+    max-width: 120pt;
+}

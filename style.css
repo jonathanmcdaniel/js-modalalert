@@ -1,8 +1,12 @@
+body{
+    background-color: white;
+}
 #acontainer{
     visibility: hidden;
     text-align: center;
-    background-color: rgba(0, 0, 0, .7);
+    background-color: rgba(0, 0, 0, .6);
     border-radius: 10px;
+    border: outset 4px black;
     color: white;
     width: auto;
     position: absolute;
@@ -21,6 +25,10 @@
     padding: 10px 15px;
 }
 #acontent p{
+    margin-top: 0px;
+}
+#acontent p input{
+    margin-bottom: 5px;
 }
 #acontent button{
     max-width: 120pt;

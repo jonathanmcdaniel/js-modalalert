@@ -5,14 +5,14 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <button onclick="showAlert('This is the title of the alert', 'This is the body of the alert.', 'Close Alert Button')">Show Alert!</button>
+        <button onclick="showAlert('This is the title of the alert', 'This is the body of the alert.', 'Close Alert Button', 1, 3)">Show Alert!</button>
         <div id="acontainer">
             <div id="atitle">
                 <h1 id="alerttitle"></h1>
             </div>
             <div id="acontent">
                 <p id="alertbody"></p>
-                <button onclick="hideAlert()" id="closebutton">Close</button>
+                <button onclick="closeAlert()" id="closebutton">Close</button>
             </div>
         </div>
     </body>

@@ -10,8 +10,7 @@
     left: 40%;
     width: 20%;
     max-width: 200pt;
-}
-#atitle{
+    padding: 0px 15px;
 }
 #atitle h1{
     padding: 0px;
@@ -19,10 +18,9 @@
     font-size: 22pt;
 }
 #acontent{
-    padding: 10px 0px;
+    padding: 10px 15px;
 }
 #acontent p{
-    padding: 0px 15px;
 }
 #acontent button{
     max-width: 120pt;

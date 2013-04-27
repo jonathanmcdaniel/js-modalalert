@@ -18,7 +18,7 @@ body{
 }
 #atitle h1{
     padding: 0px;
-    margin: 10px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
     font-size: 22pt;
 }
 #acontent{
@@ -28,7 +28,7 @@ body{
     margin-top: 0px;
 }
 #acontent p input{
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 #acontent button{
     max-width: 120pt;

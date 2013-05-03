@@ -1,7 +1,5 @@
-js-modalalert
-=============
-
-Alternative to the standard JavaScript alert method
+<h1>js-modalalert</h1>
+<h3>Alternative to the standard JavaScript alert method</h3>
 
 -Creates custom alert based on parameter inputs
 

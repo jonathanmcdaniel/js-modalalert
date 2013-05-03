@@ -1,5 +1,5 @@
 <h1>js-modalalert</h1>
-<h2>Customizable alternative to the standard JavaScript alert method</h2>
+<h1>Customizable alternative to the standard JavaScript alert method</h1>
 <ul>
 <li>Creates custom alert based on parameter inputs</li>
 <li>Allows for custom title and body</li>

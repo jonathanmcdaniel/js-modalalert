@@ -4,6 +4,13 @@
 <code>
 onclick="showAlert('Alert Title', 'This is the body of the alert.', 'Close Button', 1)"
 </code>
+<ul>
+<li><em>'Alert Title'</em> fills the alert's title slot.</li>
+<li><em>'This is the body of the alert.'</em> fills the body.</li>
+<li><em>'Close Button'</em> gives a title to the button responsible for dismissing the alert.</li>
+<li><em>1</em> tells the script to look for an array dictating the form fields.<br />
+A value of <em>0</em> would tell the method that the alert is strictly presentation.</li>
+</ul>
 <h3>Advantages</h3>
 <ul>
 <li>Creates custom alert based on parameter inputs.</li>

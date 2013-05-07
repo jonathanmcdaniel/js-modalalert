@@ -1,5 +1,9 @@
 <h1>js-modalalert</h1>
 <h2>Customizable alternative to the standard JavaScript alert method</h2>
+<h3>Sample parameters in method call</h3>
+<code>
+onclick="showAlert('Alert Title', 'This is the body of the alert.', 'Close Button', 1)"
+</code>
 <h3>Advantages</h3>
 <ul>
 <li>Creates custom alert based on parameter inputs.</li>

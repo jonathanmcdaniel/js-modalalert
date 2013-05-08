@@ -24,7 +24,7 @@ A value of <em>0</em> would tell the method that the alert is strictly presentat
 </ul>
 <h3>Planned Implementation</h3>
 <ul>
-<li>Support for more form elements just as buttons and menus.</li>
+<li>Support for more form elements such as buttons and menus.</li>
 <li>Pass an array to the class for creating custom form alerts with ease.</li>
 <li>Support for color change.</li>
 </ul>

@@ -39,4 +39,5 @@ function getAlertContents(){
 <li>Support for more form elements such as buttons and menus.</li>
 <li>Pass an array to the class for creating custom form alerts with ease.</li>
 <li>Support for color change.</li>
+<li>AJAX Support</li>
 </ul>

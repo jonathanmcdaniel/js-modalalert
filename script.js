@@ -1,6 +1,6 @@
 var buttonValue = new Array();
 var alertInfo = new Array();
-function showAlert(title, body, button, form){
+function showAlert(title, body, button, form, red, blue, green, alpha){
     var alertTitle = document.getElementById('alerttitle');
     var alertBody = document.getElementById('alertbody');
     var alertButton = document.getElementById('closebutton');

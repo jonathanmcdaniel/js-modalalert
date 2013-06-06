@@ -41,4 +41,5 @@ function getAlertContents(){
 <li>Pass an array to the class for creating custom form alerts with ease.</li>
 <li>Support for color change via JS variables.</li>
 <li>AJAX Support</li>
+<li>Mobile platform support.</li>
 </ul>

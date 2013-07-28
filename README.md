@@ -2,7 +2,9 @@
 <h2>Tutorial</h2>
 <h3>Sample Parameters in Method Call</h3>
 <code>
+
 onclick="showAlert('Alert Title', 'This is the body of the alert.', 'Close Button', 1)"
+
 </code>
 <ul>
 <li><em>'Alert Title'</em> fills the alert's title slot.</li>

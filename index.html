@@ -1,3 +1,9 @@
+<!--
+ * Created by Jonathan McDaniel July 2013
+ * Last Edited: July 29, 2013
+ * http://github.com/jonathanmcdaniel
+-->
+
 <html>
     <head>
         <title>Modal Alert</title>
@@ -5,7 +11,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <button onclick="showAlert('Alert Title', 'This is the body of the alert.', 'Close Button', 1, 255, 255, 255, .7)">Show Alert!</button>
+        <button onclick="showAlert('Alert Title', 'This is the body of the alert.', 'Close Button', 1)">Show Alert!</button>
         <div id="acontainer">
             <div id="atitle">
                 <h1 id="alerttitle"></h1>
@@ -15,9 +21,5 @@
                 <button onclick="closeAlert()" id="closebutton">Close</button>
             </div>
         </div>
-        <button onclick="getAlertContents()">Get info</button>
-        <p id="returnhere">
-            
-        </p>
     </body>
 </html>

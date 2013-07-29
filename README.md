@@ -1,4 +1,5 @@
 <h1>js-modalalert</h1>
+Alternative to the standard JavaScript alert method.
 <h2>Tutorial</h2>
 <h3>Sample Parameters in Method Call</h3>
 <code>

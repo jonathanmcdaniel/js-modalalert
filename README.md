@@ -37,7 +37,6 @@ function getAlertContents(){
 </ul>
 <h2>Planned Implementation</h2>
 <ul>
-<li>In-line commenting for easy comprehension and implementation.</li>
 <li>Support for more form elements such as buttons and menus.</li>
 <li>Pass an array to the class for creating custom form alerts with ease.</li>
 <li>Support for color change via JS variables.</li>
